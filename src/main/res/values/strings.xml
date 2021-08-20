@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HNG TASK 2</string>
+    <string name="app_name2">Hyperlink Textview</string>
+    <string name="hyperlink">Learn more about HNGi8 Internship at\n<a href="https://hng.tech">hng.tech</a></string>
+</resources>
